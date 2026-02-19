@@ -43,6 +43,8 @@ DB_PASSWORD=your_password
 
 ZOHO_CLIENT_ID=your_client_id
 ZOHO_CLIENT_SECRET=your_client_secret
+ZOHO_BASE_URL=https://www.zohoapis.eu/crm/v2
+ZOHO_AUTH_URL=https://accounts.zoho.eu/oauth/v2/token
 ```
 
 Run migrations:
